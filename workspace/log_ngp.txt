@@ -1,0 +1,12 @@
+[INFO] Trainer: ngp | 2023-04-27_10-20-21 | cuda | fp32 | workspace
+[INFO] #parameters: 12667040
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-04-27_10-27-30 | cuda | fp32 | workspace
+[INFO] #parameters: 12249072
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] Trainer: ngp | 2023-04-27_10-28-08 | cuda | fp32 | workspace
+[INFO] #parameters: 12249072
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
